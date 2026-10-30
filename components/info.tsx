@@ -12,7 +12,7 @@ interface ShowInfoProps {
 export default function ShowInfo({ info }: ShowInfoProps) {
   return (
     <section className="mt-6 rounded-lg bg-gray-100 p-6 shadow-md">
-      <h3 className="mb-3 text-2xl font-bold  text-blue-600">
+      <h3 className="mb-3 text-2xl font-bold text-red-900">
         Biochemist turned Web Developer
       </h3>
 

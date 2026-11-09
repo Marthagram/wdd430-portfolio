@@ -1,12 +1,13 @@
 import ProjectList from '@/components/ProjectList';
 const projects = [
-  {
+  {id: 1,
     title: ' A Backend technical project',
     description: 'A REST API project to manage backend operations and be used in a later-built frontend project.',
     technologies: ['Node.js', 'HTML', 'Express.js', 'CSS', 'JavaScript', 'MongoDB', 'Mongoose'],
     link: 'https://cse341-project2-jf77.onrender.com'
   },
   {
+    id: 2,
     title: 'Otas Farm Intergrated Enterprise',
     description: 'A an app that shows the history, about-us, products and address to users.',
     technologies: ['HTML', 'CSS', 'JavaScript'],

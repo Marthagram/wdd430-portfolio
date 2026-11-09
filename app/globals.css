@@ -11,6 +11,11 @@
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
+.active {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #1e40af; /* dark blue */
+}
 
 @media (prefers-color-scheme: dark) {
   :root {
